@@ -1,0 +1,19 @@
+2D-Tile-Engine Prototype
+
+The purpose of the 2D Tile Engine is to provide basic methods for drawing and manipulating a 2D tile map.
+
+Used in games:
+
+‘Killcraft’ is a single-player 2-Dimensional tile-based engine. The player controls a sprite, in a non-persistently 
+timed single-player world. The game houses two game modes, creative and survival. Creative mode allows the player to
+place blocks, known as tiles, in any permutation possible. The games objectives have similarities with that of 
+‘Minecraft’ and ‘Terraria’. Likewise my game focuses on creativity; by placing various tiles the player can build a 
+world to their taste. 
+
+Shooting fireballs at enemies is the games survival mode primary objective. For each enemy 
+destroyed, a new one spawns, with an increased field-of-view and health. The player has thirty-seconds to obliterate 
+as many enemies possible. If the player collides with an enemy then the player’s health is reduced, once hit zero, 
+game over! The player’s score is then saved onto a high-score board. 
+
+
+
