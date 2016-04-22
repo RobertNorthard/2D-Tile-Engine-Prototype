@@ -1,9 +1,5 @@
 2D-Tile-Engine Prototype
 
-TODO:
-  -refactor to improve class cohesion and reduce coupling.
-  -improve encapsulation
-
 The purpose of the 2D Tile Engine is to provide basic methods for drawing and manipulating a 2D tile map.
 
 Used in games:
